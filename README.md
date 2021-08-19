@@ -6,7 +6,7 @@
 
 - webstorm 配置webpack
  ```js
-- 'use strict'
+'use strict'
 const path = require('path')
 
 function resolve (dir) {
