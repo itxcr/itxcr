@@ -4,9 +4,8 @@
 - 💞️ 前端开发 https://itxcr.github.io/
 - 📫 持续学习中...
 
-#####webstorm 配置webpack
-
  ```js
+ // webstorm 配置webpack
 'use strict'
 const path = require('path')
 
