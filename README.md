@@ -1,29 +1,11 @@
-- 👋 XCR 小超人 
-- 👀 CSDN https://blog.csdn.net/it_xcr?spm=1011.2124.3001.5343
-- 🌱 B站直播 https://live.bilibili.com/22662231
-- 💞️ 前端开发 https://itxcr.github.io/
-- 📫 持续学习中...
 
- ```js
- // webstorm 配置webpack
-'use strict'
-const path = require('path')
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itxcr&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxcr&layout=compact&theme=aura_dark&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-function resolve (dir) {
-  return path.join(__dirname, dir)
-}
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=itxcr.github.io&theme=aura_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=PIC&theme=aura_dark" />
+</a>
 
-module.exports = {
-  context: path.resolve(__dirname, './'),
-  resolve: {
-    extensions: ['.js', '.vue', '.json', '.css', '.scss'],
-    alias: {
-      '@': resolve('src'),
-      // '@views': resolve('src/views'),
-      // '@comp': resolve('src/components'),
-      // '@core': resolve('src/core'),
-      // '@utils': resolve('src/utils')
-    }
-  },
-}
-```
