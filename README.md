@@ -3,8 +3,6 @@
 - 📫 持续学习中...
 
 
-
-
 | <a href="https://github.com/itxcr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itxcr&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/itxcr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxcr&layout=compact&theme=aura_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
