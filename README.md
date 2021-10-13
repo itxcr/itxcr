@@ -1,6 +1,6 @@
 👋 XCR 小超人 
 <br />
-<a href="https://blog.csdn.net/it_xcr?spm=1011.2124.3001.5343" target="_blank">👀 CSDN</a>
+<a href="https://blog.csdn.net/it_xcr?spm=1011.2124.3001.5343" target=_black>👀 CSDN</a>
 <br />
 📫 持续学习中...
 <br />
