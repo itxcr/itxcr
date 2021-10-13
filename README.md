@@ -1,7 +1,9 @@
 👋 XCR 小超人 
+<br />
 👀 CSDN https://blog.csdn.net/it_xcr?spm=1011.2124.3001.5343
+<br />
 📫 持续学习中...
-
+<br />
 
 <a href="https://github.com/itxcr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itxcr&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag's github stats" /></a> 
 
