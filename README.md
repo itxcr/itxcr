@@ -3,7 +3,7 @@
 📫 持续学习中...
 <br />
 
-<a href="https://github.com/itxcr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itxcr&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag's github stats" /></a> 
+<a href="https://github.com/itxcr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itxcr&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true&hide=contribs,prs" alt="Anurag's github stats" /></a> 
 
 **Languages and Tools:**  
 
