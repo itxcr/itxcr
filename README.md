@@ -14,7 +14,7 @@
 #### Top Repositories
 
 <a href="https://github.com/itxcr/itxcr.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=itxcr.github.io&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=itxcr.github.io&theme=aura_dark&hide=contribs,prs" />
 </a>
 <a href="https://github.com/itxcr/PIC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=PIC&theme=aura_dark" />
