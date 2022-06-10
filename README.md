@@ -16,4 +16,7 @@
 <a href="https://github.com/itxcr/ant-design-vue-admin-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=ant-design-vue-admin-template&theme=aura_dark" />
 </a>
+<a href="https://github.com/itxcr/xcr-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itxcr&repo=xcr-admin&theme=aura_dark" />
+</a>
 
